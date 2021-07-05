@@ -1,1 +1,1 @@
-# restaurantBooking
+# Restaurant booking
